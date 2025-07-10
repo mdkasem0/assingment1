@@ -1,0 +1,8 @@
+{
+    //"terminal.integrated.fontWeight": "normal"
+    "terminal.integrated.fontWeight": "normal",
+"terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+"terminal.integrated.letterSpacing": 0,
+"terminal.integrated.fontSize": 17,
+
+}
